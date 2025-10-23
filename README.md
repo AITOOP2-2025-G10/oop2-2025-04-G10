@@ -14,7 +14,7 @@ requirements
 
 
 ## 作成者情報
-Rionaitkk k24102
+Rionaitkk k24102  
 tyamokamo k24  
 UNO1013 k24  
 yuuri-mr k24135
