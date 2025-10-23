@@ -4,7 +4,7 @@ import time
 # 録音時間（秒）
 duration = 10
 # 出力ファイル名
-output_file = 'python-audio-output.wav'
+output_file = 'python-recording.wav'
 
 try:
     print(f"{duration}秒間、マイクからの録音を開始します...")
