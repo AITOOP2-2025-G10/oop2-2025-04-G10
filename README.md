@@ -11,7 +11,8 @@ requirements
  mlx-whisper  
 
 ## 実行手順
-
+１　必要なモジュールをインストール
+２　プログラム実行
 
 ## 作成者情報
 Rionaitkk k24102  
